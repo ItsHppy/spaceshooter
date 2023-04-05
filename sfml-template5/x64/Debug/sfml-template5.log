@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\просто папка\sfml-template5\meteor.h(24,11): warning C4244:  инициализация: преобразование "int" в "float", возможна потеря данных
+D:\просто папка\sfml-template5\meteor.h(27,23): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+D:\просто папка\sfml-template5\meteor.h(28,23): warning C4244:  =: преобразование "int" в "float", возможна потеря данных
+D:\просто папка\sfml-template5\game.h(87,41): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\просто папка\sfml-template5\game.h(87,27): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\просто папка\sfml-template5\game.h(90,29): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  sfml-template5.vcxproj -> D:\просто папка\sfml-template5\x64\Debug\sfml-template5.exe

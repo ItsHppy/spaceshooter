@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\st\source\repos\sfml-template2.0\main.cpp(10,27): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+C:\Users\st\source\repos\sfml-template2.0\main.cpp(10,13): warning C4244:  аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  sfml-template2.0.vcxproj -> C:\Users\st\source\repos\sfml-template2.0\x64\Debug\sfml-template2.0.exe
